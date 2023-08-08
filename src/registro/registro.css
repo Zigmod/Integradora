@@ -38,3 +38,8 @@ button:hover{
     transition: 0.5s;
     border: 1px solid #414649;
 }
+.error{
+    color: red;
+    font-size: large;
+    font-weight: bold;
+}
